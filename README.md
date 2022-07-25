@@ -1,2 +1,1 @@
-# tindog
-Udemy web development course project
+TinDog Starting Files
